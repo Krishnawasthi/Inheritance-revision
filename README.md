@@ -2,6 +2,7 @@
 Welcome to the comprehensive Java OOPs interview preparation repository! Below you will find detailed answers and code examples for core object-oriented concepts.
 ❓ Interview Questions & Detailed Answers
 1. What is inheritance, and why do we need it? 🤔
+   
 •	What it is: Inheritance is a core mechanism in Object-Oriented Programming (OOP) that allows one class (the Child/Subclass) to acquire the properties (fields) and behaviors (methods) of another class (the Parent/Superclass). In Java, it is implemented using the extends keyword.
 •	Why we need it:
 o	Code Reusability: You don't have to rewrite the same code. Common properties and behaviors are defined once in the parent class and inherited by multiple subclasses.
