@@ -54,4 +54,7 @@ When a child class declares a variable with the same name as an inherited variab
 •	How to access both inside the child class:
 o	Use this.variableName to access the child class variable.
 o	Use super.variableName to access the parent class variable.
+<img width="1008" height="481" alt="image" src="https://github.com/user-attachments/assets/985f650f-438b-445d-9942-72e1b9ba8f16" />
+
+
 
