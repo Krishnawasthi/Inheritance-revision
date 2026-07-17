@@ -55,7 +55,9 @@ When a child class declares a variable with the same name as an inherited variab
 o	Use this.variableName to access the child class variable.
 o	Use super.variableName to access the parent class variable.
 
-1. Importance of Inheritance 
+
+
+1. Importance of Inheritance(CLASS INHERITANCE 1) 
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/985f650f-438b-445d-9942-72e1b9ba8f16" />
 
 2.Practice program
