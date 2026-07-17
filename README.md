@@ -58,5 +58,12 @@ o	Use super.variableName to access the parent class variable.
 1. Importance of Inheritance 
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/985f650f-438b-445d-9942-72e1b9ba8f16" />
 
+2.Practice program
+<img width="600" height="266" alt="image" src="https://github.com/user-attachments/assets/1ab8709a-920e-4d78-8d81-11fdcff31288" />
+2a. this is how solution will look like.
+<img width="600" height="441" alt="image" src="https://github.com/user-attachments/assets/4c687473-b22c-4765-b8d5-f8cce7e25ced" />
+
+
+
 
 
