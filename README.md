@@ -79,7 +79,15 @@ o	Use super.variableName to access the parent class variable.
   * here is the Hierarchical Diagram of this Program
 
     
-    <img width="620" height="300" alt="image" src="https://github.com/user-attachments/assets/761bc7dd-6d3e-4054-9884-72b04e006944" />
+<img width="620" height="300" alt="image" src="https://github.com/user-attachments/assets/761bc7dd-6d3e-4054-9884-72b04e006944" /> 
+
+### ⭐ Important: Here is the DIAMOND PROBLEM that is not supported in java caused by multiple inheritance:
+###### ⭐ 1. Multiple inheritance (Death of diamonds) is not supported in java where a child class try to access the properties from two or more than two parent               classes.
+###### ⭐2. Where in c++ multiple inheritance is supported.
+###### ⭐3. We solve this problem with java by implimenting Interface.
+
+<img width="510" height="251" alt="image" src="https://github.com/user-attachments/assets/8704ac7c-a3ca-4812-ae3b-3553417b1e0d" />
+
 
 
 
