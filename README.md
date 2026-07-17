@@ -74,7 +74,7 @@ o	Use super.variableName to access the parent class variable.
 
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/13ff779c-2ce0-4ba5-914d-61be27d08772" />
 
-**⭐ Important:  CHECK PACKAGE package com.bank.system(bank/system) :  which is perfect example of inheritance.
+###⭐ Important:  CHECK PACKAGE package com.bank.system(bank/system) :  which is perfect example of inheritance.
 
 
 
