@@ -69,6 +69,7 @@ o	Use super.variableName to access the parent class variable.
 <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/4c687473-b22c-4765-b8d5-f8cce7e25ced" />
 
 
+
 3.Inheritance: How we can save the time and reuse the existing code to improve efficiency {CLASS:2 INHERITANCE)
 
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/13ff779c-2ce0-4ba5-914d-61be27d08772" />
