@@ -57,10 +57,10 @@ o	Use super.variableName to access the parent class variable.
 
 
 
-## ⭐ Important 1. Importance of Inheritance(CLASS INHERITANCE 1) 
+### ⭐ Important 1. Importance of Inheritance(CLASS INHERITANCE 1) 
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/985f650f-438b-445d-9942-72e1b9ba8f16" />
 
-## ⭐ Important 2.Practice program
+### ⭐ Important 2.Practice program
 
 <img width="600" height="266" alt="image" src="https://github.com/user-attachments/assets/1ab8709a-920e-4d78-8d81-11fdcff31288" />
 
@@ -70,11 +70,11 @@ o	Use super.variableName to access the parent class variable.
 
 
 
-## ⭐ Important 3.Inheritance: How we can save the time and reuse the existing code to improve efficiency {CLASS:2 INHERITANCE)
+### ⭐ Important 3.Inheritance: How we can save the time and reuse the existing code to improve efficiency {CLASS:2 INHERITANCE)
 
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/13ff779c-2ce0-4ba5-914d-61be27d08772" />
 
-##⭐ Important:  CHECK PACKAGE package com.bank.system(bank/system) :  which is perfect example of inheritance.
+### ⭐ Important:  CHECK PACKAGE package com.bank.system(bank/system) :  which is perfect example of inheritance.
 
 
 
