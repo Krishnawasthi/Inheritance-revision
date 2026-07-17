@@ -77,6 +77,8 @@ o	Use super.variableName to access the parent class variable.
 ### ⭐ Important:  CHECK PACKAGE package com.bank.system(bank/system) :  which is perfect example of inheritance.
 
   * here is the Hierarchical Diagram of this Program
+
+    
     <img width="620" height="300" alt="image" src="https://github.com/user-attachments/assets/761bc7dd-6d3e-4054-9884-72b04e006944" />
 
 
