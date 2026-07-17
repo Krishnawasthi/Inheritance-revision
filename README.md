@@ -85,6 +85,14 @@ o	Use super.variableName to access the parent class variable.
 ###### ⭐ 1. Multiple inheritance (Death of diamonds) is not supported in java where a child class try to access the properties from two or more than two parent               classes.
 ###### ⭐2. Where in c++ multiple inheritance is supported.
 ###### ⭐3. We solve this problem with java by implimenting Interface.
+###### ⭐4. This design helps Java avoid the Diamond Problem, where the same method can be inherited from multiple parent classes, creating ambiguity.
+###### ⭐5.⚡ If two interfaces contain the same default method, the implementing class must override that method to resolve the conflict.
+###### ⭐6.🎯 Multiple inheritance through interfaces promotes code reusability, flexibility, and loose coupling.
+###### ⭐7.📚 Interfaces define what a class should do, while the implementing class decides how it should do it.
+###### ⭐8.💼 This approach is widely used in real-world applications, including Java frameworks such as Spring, Hibernate, and Java Collections.
+###### ⭐9.🚀 Interview Tip: If asked, "Does Java support multiple inheritance?" the correct answer is:
+❌ With classes: No
+✅ With interfaces: Yes
 
 <img width="510" height="251" alt="image" src="https://github.com/user-attachments/assets/8704ac7c-a3ca-4812-ae3b-3553417b1e0d" />
 
