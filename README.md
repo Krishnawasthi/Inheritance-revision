@@ -97,7 +97,7 @@ o	Use super.variableName to access the parent class variable.
 <img width="510" height="251" alt="image" src="https://github.com/user-attachments/assets/8704ac7c-a3ca-4812-ae3b-3553417b1e0d" />
 
 
-# 🔄 Type Casting in Java
+## 🔄 Type Casting in Java
 
 Type Casting in Java is the process of converting one data type or one object reference type into another. It allows Java programs to work with different data types while maintaining type safety.
 
@@ -105,16 +105,8 @@ There are **two types of type casting** in Java:
 
 1. **Primitive Type Casting**
 2. **Object Type Casting (Reference Type Casting)**
-
----
-
-# 📌 1. Primitive Type Casting
-
-Primitive type casting is used to convert one primitive data type into another.
-
-
-
-# 📌 2. Object Type Casting
+   
+## 📌 2. Object Type Casting
 
 Object type casting is used in **Inheritance**.
 
@@ -127,7 +119,7 @@ There are two types:
 
 ---
 
-# ⬆️ Upcasting
+## ⬆️ Upcasting
 
 Upcasting means converting a **Child object** into a **Parent reference**.
 
@@ -152,7 +144,7 @@ This is called **Upcasting**.
 
 ---
 
-## ✅ Why do we use Upcasting?
+### ✅ Why do we use Upcasting?
 
 Upcasting provides flexibility.
 
@@ -181,7 +173,7 @@ This is the foundation of **Runtime Polymorphism**.
 
 ---
 
-## What can be accessed after Upcasting?
+### What can be accessed after Upcasting?
 
 You can access:
 
@@ -198,7 +190,7 @@ unless you perform Downcasting.
 
 ---
 
-# ⬇️ Downcasting
+## ⬇️ Downcasting
 
 Downcasting means converting a **Parent reference** back into its **actual Child reference**.
 
@@ -303,7 +295,7 @@ ClassCastException
 
 ---
 
-# ✅ Safe Downcasting
+## ✅ Safe Downcasting
 
 Always verify the object's type before downcasting.
 
@@ -329,8 +321,14 @@ This prevents `ClassCastException`.
 | Runtime Polymorphism | ✅ Yes | ❌ No |
 | Main Purpose | Generalization | Access Child-specific features |
 
-## what is typecasting. Upcasting and Dwoncasting
-<img width="712" height="1075" alt="Screenshot 2026-07-17 225145" src="https://github.com/user-attachments/assets/7cb3fe2a-f6cb-445d-8025-7e01fa996391" />
+## what is typecasting. Upcasting and Dwoncasting:
+
+<img width="712" height="800" alt="Screenshot 2026-07-17 225145" src="https://github.com/user-attachments/assets/7cb3fe2a-f6cb-445d-8025-7e01fa996391" />
+
+## Major of Downcasting:
+
+<img width="711" height="800" alt="image" src="https://github.com/user-attachments/assets/82bc3575-e5d7-41b6-b6fe-3e29910b327e" />
+
 
 
 
