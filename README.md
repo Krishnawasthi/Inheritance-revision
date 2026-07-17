@@ -61,8 +61,8 @@ o	Use super.variableName to access the parent class variable.
 2.Practice program
 <img width="600" height="266" alt="image" src="https://github.com/user-attachments/assets/1ab8709a-920e-4d78-8d81-11fdcff31288" />
 
-2a. this is how solution will look like.
-<img width="600" height="441" alt="image" src="https://github.com/user-attachments/assets/4c687473-b22c-4765-b8d5-f8cce7e25ced" />
+--> this is how solution will look like.
+<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/4c687473-b22c-4765-b8d5-f8cce7e25ced" />
 
 
 
