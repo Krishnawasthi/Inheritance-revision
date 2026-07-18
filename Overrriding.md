@@ -236,13 +236,10 @@ void show() { }
 ## 🔹 Static Methods Cannot Be Overridden
 Static methods belong to the class, not the object.
 They are method hidden, not overridden.
-class Parent {
-    static void display() {}
-}
+Static methods are hidded they can't br overriden.
+@Override won't work.
+<img width="852" height="287" alt="image" src="https://github.com/user-attachments/assets/85d110ff-5834-475f-a040-b87a71d429d3" />
 
-class Child extends Parent {
-    static void display() {}   // Method Hiding
-}
 
 
 ## 🔹 Final Methods Cannot Be Overridden
