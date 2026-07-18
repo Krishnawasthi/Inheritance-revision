@@ -264,25 +264,5 @@ Private methods are not inherited, so they cannot be overridden.
 
 
 
-While overriding, the child class can return:
-
-The same return type, or
-A subclass (child class) of the parent's return type.
-class Animal {}
-
-class Dog extends Animal {}
-
-class Parent {
-    Animal getAnimal() {
-        return new Animal();
-    }
-}
-
-class Child extends Parent {
-    @Override
-    Dog getAnimal() {      // Covariant Return Type
-        return new Dog();
-    }
-}
 
 
