@@ -6,7 +6,7 @@
 
 * Method name must be the **same**.
 * Parameters must be **identical** (Params should be same) same in terms of (Order, Type, Number).
-* Return type must be the **same** (**except Covariant Return Type** **this features comes  from java5** ).
+* Return type must be the **same** (**except Covariant Return Type, this features comes from java5** ).
 * Access modifier should be same or widen or cannot be **more restrictive**.
 * `static`, `final`, and `private` methods **cannot be overridden**.
 * Constructors **cannot** be overridden.
@@ -257,6 +257,8 @@ Private methods are not inherited, so they cannot be overridden.
 
 ## 🔹 Covariant Return Type
 ### return type of child class method must be same as parent class method return-type or child of parent method return-type.
+<img width="727" height="320" alt="image" src="https://github.com/user-attachments/assets/cd633d24-ca42-41f1-99a4-37f91060464e" />
+
 
 While overriding, the child class can return:
 
