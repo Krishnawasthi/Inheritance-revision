@@ -234,11 +234,11 @@ Improves code readability.
 void show() { }
 
 ## 🔹 Static Methods Cannot Be Overridden
-Static methods belong to the class, not the object.
-They are method hidden, not overridden.
-Static methods are hidded they can't br overriden.
-@Override won't work.
-Static belongs to class(check at the time of compilation that static is belongs to where) and overriding happen at run time.
+1. Static methods belong to the class, not the object.
+2. They are method hidden, not overridden.
+3. Static methods are hidden so they can't br overriden.
+4. @Override won't work.
+5. Static belongs to class(check at the time of compilation that static is belongs to where) and overriding happen at run time.
 
 <img width="852" height="287" alt="image" src="https://github.com/user-attachments/assets/85d110ff-5834-475f-a040-b87a71d429d3" />
 
