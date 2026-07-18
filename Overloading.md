@@ -145,7 +145,7 @@ Student(int id, String name)
 - ✅ Provides flexibility for different inputs
 - ✅ Supports Compile-Time Polymorphism
   
-<img width="1155" height="1061" alt="image" src="https://github.com/user-attachments/assets/8808374f-1562-4c5a-8e01-0d6559b1e3d7" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8808374f-1562-4c5a-8e01-0d6559b1e3d7" />
 
 ---
 
