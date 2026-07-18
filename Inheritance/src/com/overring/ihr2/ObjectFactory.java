@@ -17,6 +17,7 @@ public class ObjectFactory {
 			 obj = new ElectronicProduct();
 			
 		}
+		
 		else {
 			
 			System.out.println("Invalid type ");
