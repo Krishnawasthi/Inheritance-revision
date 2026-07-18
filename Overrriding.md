@@ -5,11 +5,15 @@
 ## ✅ Rules
 
 * Method name must be the **same**.
-* Parameters must be **identical**.
-* Return type must be the **same** (or **Covariant Return Type**).
-* Access modifier cannot be **more restrictive**.
+* Parameters must be **identical** (Params should be same) same in terms of (Order, Type, Number).
+* Return type must be the **same** (**except Covariant Return Type** **this features comes  from java5** ).
+* Access modifier should be same or widen or cannot be **more restrictive**.
 * `static`, `final`, and `private` methods **cannot be overridden**.
 * Constructors **cannot** be overridden.
+
+
+  <img width="501" height="257" alt="image" src="https://github.com/user-attachments/assets/56098c56-5aa9-4439-a75b-51983d7b4544" />
+
 
 
 <img width="537" height="348" alt="image" src="https://github.com/user-attachments/assets/6921c4c5-e86c-468f-93ef-c85b6ae3b481" />
@@ -50,6 +54,7 @@ public class Main {
 * Enables **Dynamic Method Dispatch**.
 * Improves **code reusability** and **flexibility**.
 * Allows child classes to customize inherited behavior.
+  
 
 > **Key Point:** In Method Overriding, the method to execute is decided **at runtime** based on the actual object, not the reference type.
 
