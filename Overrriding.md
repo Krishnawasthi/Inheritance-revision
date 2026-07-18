@@ -259,7 +259,9 @@ Private methods are not inherited, so they cannot be overridden.
 
 ## 🔹 Covariant Return Type
 ### return type of child class method must be same as parent class method return-type or child of parent method return-type.
-<img width="727" height="320" alt="image" src="https://github.com/user-attachments/assets/cd633d24-ca42-41f1-99a4-37f91060464e" />
+
+<img width="722" height="305" alt="image" src="https://github.com/user-attachments/assets/2301b9e0-30da-4687-a332-fda25eca20fc" />
+
 
 
 While overriding, the child class can return:
