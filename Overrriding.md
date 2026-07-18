@@ -217,13 +217,16 @@ Dog barks
 ```
 
 ⭐ Important Points About Method Overriding
-##🔹 @Override Annotation
+
+
+## 🔹 @Override Annotation
 It is optional, but highly recommended.
 Helps the compiler detect mistakes while overriding.
 Improves code readability.
 @Override
 void show() { }
-##🔹 Static Methods Cannot Be Overridden
+
+## 🔹 Static Methods Cannot Be Overridden
 Static methods belong to the class, not the object.
 They are method hidden, not overridden.
 class Parent {
@@ -233,16 +236,21 @@ class Parent {
 class Child extends Parent {
     static void display() {}   // Method Hiding
 }
-##🔹 Final Methods Cannot Be Overridden
+
+
+## 🔹 Final Methods Cannot Be Overridden
 
 A final method cannot be redefined by the child class.
 
 final void show() {}
-##🔹 Private Methods Cannot Be Overridden
+
+
+## 🔹 Private Methods Cannot Be Overridden
 
 Private methods are not inherited, so they cannot be overridden.
 
-##🔹 Covariant Return Type
+
+## 🔹 Covariant Return Type
 ### return type of child class method must be same as parent class method return-type or child of parent method return-type.
 
 While overriding, the child class can return:
