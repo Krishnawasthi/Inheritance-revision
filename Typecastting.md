@@ -2,6 +2,7 @@
 
 Type Casting in Java is the process of converting one data type or one object reference type into another. It allows Java programs to work with different data types while maintaining type safety.
 
+### Here is the code file that is in "com.upcasting.downcasting" package you can refer it for the example of typecasting.
 There are **two types of type casting** in Java:
 
 1. **Primitive Type Casting**
@@ -230,7 +231,7 @@ This prevents `ClassCastException`.
 
 <img width="711" height="800" alt="image" src="https://github.com/user-attachments/assets/82bc3575-e5d7-41b6-b6fe-3e29910b327e" />
 
-### Here is the code file that is in "com.upcasting.downcasting" package you can refer it for the example of typecasting.
+
 
 
 
