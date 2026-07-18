@@ -243,7 +243,7 @@ class Child extends Parent {
 A final method cannot be redefined by the child class.
 
 final void show() {}
-
+#### . if you don't want that some other class override this method so make it as final.
 
 ## 🔹 Private Methods Cannot Be Overridden
 
